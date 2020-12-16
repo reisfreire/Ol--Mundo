@@ -1,2 +1,2 @@
-# Olá Mundo
- Repostório do Curso do Guanabar\MeuProjetos
+# Olá, Mundo
+ Repositório do Curso do Guanabara\MeusProjetos
